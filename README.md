@@ -2,6 +2,7 @@
 
 Scraper is a a web app that lets users view and leave comments on the latest news from the New York Times.
 
+ ### Deployed Link: https://news-scraper-bootcamp.herokuapp.com/
 
 
 ## Programming/Scripting Languages
